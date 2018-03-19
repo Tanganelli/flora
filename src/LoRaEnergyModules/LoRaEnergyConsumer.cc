@@ -14,9 +14,9 @@
 // 
 
 #include "LoRaEnergyConsumer.h"
-
 #include "inet/physicallayer/contract/packetlevel/IRadio.h"
-#include "LoRaTransmitter.h"
+#include "../LoRaPhy/LoRaTransmitter.h"
+
 namespace inet {
 
 namespace physicallayer {

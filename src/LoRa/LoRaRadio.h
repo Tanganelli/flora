@@ -22,7 +22,7 @@
 #include "inet/physicallayer/contract/packetlevel/IRadio.h"
 #include "inet/physicallayer/contract/packetlevel/IRadioMedium.h"
 
-#include <FlatRadioBase.h>
+#include "inet/physicallayer/base/packetlevel/FlatRadioBase.h"
 
 namespace inet {
 
